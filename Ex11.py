@@ -14,4 +14,4 @@ print (f"A Largura {n1:.2f} e a Altura {n2:.2f} equivalem a  {metrosQuadrados:.2
 if metrosQuadrados % tintaPinta != 0:
     print(f"{arrendondaTinta} São necessarias para para pintar a parede !")
 else:
-    print(f"{int(latasUsadas)} São necessarias para para pintar a parede !")
+    print(f"{int(latasUsadas)} São necessarias para para pintar a parede !!")
