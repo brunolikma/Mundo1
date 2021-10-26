@@ -1,6 +1,4 @@
-![alt text](https://user-images.githubusercontent.com/72528527/138975994-601d4ca0-4fe4-4c06-af4d-77f09c829a25.png)
-
-# Mundo 1 
+# Mundo 1 <img src=https://user-images.githubusercontent.com/72528527/138975994-601d4ca0-4fe4-4c06-af4d-77f09c829a25.png width="200">
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/brunolikma/Mundo1/blob/main/LICENSE)
 
