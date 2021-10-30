@@ -19,5 +19,9 @@ Faça um algoritmo que leia o salário de um funcionário e mostre seu novo sal�
 ### **Exercício 15** 
  Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado
 
+### **Exercício 16**
+
+### **Exercício 17**
+
 ### **Exercício 18** 
 Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo
