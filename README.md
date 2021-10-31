@@ -14,14 +14,19 @@ Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com
 Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento
 
 ### **Exercício 14** 
- Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
+Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
  
 ### **Exercício 15** 
- Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado
+Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado
 
 ### **Exercício 16**
+Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira
 
 ### **Exercício 17**
+Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
 
 ### **Exercício 18** 
 Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo
+
+### **Exercício 19** 
+Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido
